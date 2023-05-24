@@ -46,7 +46,7 @@
                 catch (Exception e)
                 {
 
-                    Console.WriteLine("Array size execced:" + e);
+                    Console.WriteLine("Array size execceded: " + e);
                 }
             }
 
@@ -59,7 +59,7 @@
             catch (Exception e)
             {
 
-                Console.WriteLine("Cannot divide with 0:" + e);
+                Console.WriteLine("Cannot divide by 0: " + e);
             }
 
 
@@ -72,7 +72,7 @@
             catch (Exception e)
             {
 
-                Console.WriteLine("Animal has no value and cannot be created:" + e);
+                Console.WriteLine("Animal has no value and cannot be created: " + e);
             }
 
 
